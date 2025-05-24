@@ -69,7 +69,8 @@ orgs.newOrg('technology.tycho', 'eclipse-tycho') {
             "refs/heads/main",
             "refs/heads/tycho-2.7.x",
             "refs/heads/tycho-3.0.x",
-            "refs/heads/tycho-4.0.x"
+            "refs/heads/tycho-4.0.x",
+            "refs/heads/tycho-5.0.x"
           ],
           required_pull_request+: {
             required_approving_review_count: 0,
